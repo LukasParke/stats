@@ -9,12 +9,12 @@
   "twitterUsername": null,
   "websiteUrl": "parke.dev",
   "createdAt": "2013-10-16T16:40:20Z",
-  "repoViews": 604,
-  "linesOfCodeChanged": 20598271,
-  "linesAdded": 12724705,
-  "linesDeleted": 7873566,
-  "commitCount": 3520,
-  "totalCommits": 5611,
+  "repoViews": 619,
+  "linesOfCodeChanged": 20598313,
+  "linesAdded": 12724728,
+  "linesDeleted": 7873585,
+  "commitCount": 3522,
+  "totalCommits": 5614,
   "totalPullRequests": 139,
   "totalPullRequestReviews": 57,
   "codeByteTotal": 205178000,
@@ -273,20 +273,20 @@
     }
   ],
   "forkCount": 90,
-  "starCount": 468,
+  "starCount": 467,
   "starsGiven": 543,
   "followers": 60,
   "following": 71,
   "repositoriesContributedTo": 18,
   "discussionsStarted": 3,
   "discussionsAnswered": 0,
-  "totalContributions": 5606,
+  "totalContributions": 5608,
   "contributionStats": {
-    "longestStreak": 668,
-    "currentStreak": 668,
+    "longestStreak": 669,
+    "currentStreak": 669,
     "mostActiveDay": "Wednesday",
-    "averagePerDay": 1.24,
-    "averagePerWeek": 8.71,
+    "averagePerDay": 1.25,
+    "averagePerWeek": 8.72,
     "averagePerMonth": 37.35,
     "monthlyBreakdown": [
       {
@@ -883,7 +883,7 @@
       },
       {
         "month": "2026-02",
-        "contributions": 3
+        "contributions": 5
       }
     ]
   },
@@ -894,7 +894,7 @@
     "archivedRepos": 1,
     "forkedRepos": 46,
     "originalRepos": 124,
-    "activeRepos": 16,
+    "activeRepos": 17,
     "reposWithStars": 40,
     "reposCreatedThisYear": 2,
     "averageStarsPerRepo": 2.75
@@ -906,7 +906,7 @@
     "archivedRepos": 1,
     "forkedRepos": 46,
     "originalRepos": 124,
-    "activeRepos": 16,
+    "activeRepos": 17,
     "reposWithStars": 40,
     "reposCreatedThisYear": 2,
     "averageStarsPerRepo": 2.75,
@@ -918,37 +918,37 @@
         "languageName": "Java",
         "color": "#b07219",
         "value": 18188962,
-        "percentage": 44.82
+        "percentage": 44.75
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 6080223,
-        "percentage": 14.98
+        "percentage": 14.96
       },
       {
         "languageName": "Python",
         "color": "#3572A5",
         "value": 5454377,
-        "percentage": 13.44
+        "percentage": 13.42
       },
       {
         "languageName": "Go",
         "color": "#00ADD8",
         "value": 4115348,
-        "percentage": 10.14
+        "percentage": 10.13
       },
       {
         "languageName": "C#",
         "color": "#178600",
         "value": 3464907,
-        "percentage": 8.54
+        "percentage": 8.53
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 2662816,
-        "percentage": 6.56
+        "value": 2722471,
+        "percentage": 6.7
       },
       {
         "languageName": "YAML",
@@ -1035,23 +1035,23 @@
       "sveltekit",
       "template"
     ],
-    "contributionsThisYear": 200,
+    "contributionsThisYear": 202,
     "contributionsLastYear": 2203,
-    "yearOverYearGrowth": -90.92,
+    "yearOverYearGrowth": -90.83,
     "mostProductiveMonth": {
       "month": "2023-04",
       "contributions": 365
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 5085,
+    "totalCommitContributions": 5087,
     "restrictedContributionsCount": 109,
     "totalIssueContributions": 36,
     "totalRepositoryContributions": 172,
     "totalPullRequestContributions": 139,
     "totalPullRequestReviewContributions": 57,
     "contributionCalendar": {
-      "totalContributions": 5606,
+      "totalContributions": 5608,
       "weeks": [
         {
           "contributionDays": [
@@ -21676,8 +21676,12 @@
               "date": "2026-02-01"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 2,
               "date": "2026-02-02"
+            },
+            {
+              "contributionCount": 1,
+              "date": "2026-02-03"
             }
           ]
         }
@@ -21700,7 +21704,7 @@
         "plex",
         "pms"
       ],
-      "updatedAt": "2026-02-02T12:17:51Z",
+      "updatedAt": "2026-02-03T11:17:22Z",
       "createdAt": "2023-03-24T13:33:38Z"
     },
     {
@@ -21769,19 +21773,6 @@
       "createdAt": "2023-10-27T01:46:46Z"
     },
     {
-      "name": "sveltekit-adapters",
-      "description": "A collection of SvelteKit adapters for various platforms and examples on how to use them",
-      "stars": 22,
-      "forks": 6,
-      "isArchived": false,
-      "isFork": false,
-      "isPrivate": false,
-      "primaryLanguage": "JavaScript",
-      "topics": [],
-      "updatedAt": "2025-12-26T05:51:47Z",
-      "createdAt": "2024-02-15T21:44:05Z"
-    },
-    {
       "name": "archives-of-nethys-scraper",
       "description": "A simple tool to gather datasets from archives of nethys",
       "stars": 22,
@@ -21793,6 +21784,19 @@
       "topics": [],
       "updatedAt": "2025-06-24T05:06:04Z",
       "createdAt": "2023-06-14T15:35:36Z"
+    },
+    {
+      "name": "sveltekit-adapters",
+      "description": "A collection of SvelteKit adapters for various platforms and examples on how to use them",
+      "stars": 21,
+      "forks": 6,
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "primaryLanguage": "JavaScript",
+      "topics": [],
+      "updatedAt": "2026-02-02T17:44:29Z",
+      "createdAt": "2024-02-15T21:44:05Z"
     },
     {
       "name": "plex-docs",
@@ -21823,5 +21827,5 @@
   ],
   "closedIssues": 25,
   "openIssues": 11,
-  "fetchedAt": 1770034673308
+  "fetchedAt": 1770121061048
 }
