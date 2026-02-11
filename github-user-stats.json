@@ -9,12 +9,12 @@
   "twitterUsername": null,
   "websiteUrl": "parke.dev",
   "createdAt": "2013-10-16T16:40:20Z",
-  "repoViews": 633,
-  "linesOfCodeChanged": 20603912,
-  "linesAdded": 12729904,
-  "linesDeleted": 7874008,
-  "commitCount": 3548,
-  "totalCommits": 5639,
+  "repoViews": 635,
+  "linesOfCodeChanged": 20592068,
+  "linesAdded": 12718071,
+  "linesDeleted": 7873997,
+  "commitCount": 3538,
+  "totalCommits": 5643,
   "totalPullRequests": 139,
   "totalPullRequestReviews": 57,
   "codeByteTotal": 205327078,
@@ -272,18 +272,18 @@
       "percentage": 0
     }
   ],
-  "forkCount": 93,
-  "starCount": 469,
+  "forkCount": 94,
+  "starCount": 467,
   "starsGiven": 543,
   "followers": 60,
   "following": 71,
   "repositoriesContributedTo": 17,
   "discussionsStarted": 3,
   "discussionsAnswered": 0,
-  "totalContributions": 5634,
+  "totalContributions": 5636,
   "contributionStats": {
-    "longestStreak": 676,
-    "currentStreak": 676,
+    "longestStreak": 677,
+    "currentStreak": 677,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 1.25,
     "averagePerWeek": 8.74,
@@ -883,7 +883,7 @@
       },
       {
         "month": "2026-02",
-        "contributions": 31
+        "contributions": 33
       }
     ]
   },
@@ -897,7 +897,7 @@
     "activeRepos": 23,
     "reposWithStars": 40,
     "reposCreatedThisYear": 5,
-    "averageStarsPerRepo": 2.71
+    "averageStarsPerRepo": 2.7
   },
   "computedStats": {
     "totalRepos": 173,
@@ -909,7 +909,7 @@
     "activeRepos": 23,
     "reposWithStars": 40,
     "reposCreatedThisYear": 5,
-    "averageStarsPerRepo": 2.71,
+    "averageStarsPerRepo": 2.7,
     "languageCount": 42,
     "primaryLanguage": "PowerShell",
     "primaryLanguageThisYear": "Java",
@@ -1035,23 +1035,23 @@
       "sveltekit",
       "template"
     ],
-    "contributionsThisYear": 228,
+    "contributionsThisYear": 230,
     "contributionsLastYear": 2203,
-    "yearOverYearGrowth": -89.65,
+    "yearOverYearGrowth": -89.56,
     "mostProductiveMonth": {
       "month": "2023-04",
       "contributions": 365
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 5110,
+    "totalCommitContributions": 5112,
     "restrictedContributionsCount": 109,
     "totalIssueContributions": 36,
     "totalRepositoryContributions": 175,
     "totalPullRequestContributions": 139,
     "totalPullRequestReviewContributions": 57,
     "contributionCalendar": {
-      "totalContributions": 5634,
+      "totalContributions": 5636,
       "weeks": [
         {
           "contributionDays": [
@@ -21712,8 +21712,12 @@
               "date": "2026-02-09"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 2,
               "date": "2026-02-10"
+            },
+            {
+              "contributionCount": 1,
+              "date": "2026-02-11"
             }
           ]
         }
@@ -21724,7 +21728,7 @@
     {
       "name": "plex-api-spec",
       "description": "A Plex Media Server OpenAPI Specification maintained by the community",
-      "stars": 75,
+      "stars": 74,
       "forks": 23,
       "isArchived": false,
       "isFork": false,
@@ -21736,7 +21740,7 @@
         "plex",
         "pms"
       ],
-      "updatedAt": "2026-02-10T12:25:20Z",
+      "updatedAt": "2026-02-11T12:23:48Z",
       "createdAt": "2023-03-24T13:33:38Z"
     },
     {
@@ -21808,7 +21812,7 @@
       "name": "archives-of-nethys-scraper",
       "description": "A simple tool to gather datasets from archives of nethys",
       "stars": 23,
-      "forks": 7,
+      "forks": 8,
       "isArchived": false,
       "isFork": false,
       "isPrivate": false,
@@ -21846,18 +21850,18 @@
     {
       "name": "plexcsharp",
       "description": "An open source Plex Media Server C# SDK",
-      "stars": 17,
+      "stars": 16,
       "forks": 5,
       "isArchived": false,
       "isFork": false,
       "isPrivate": false,
       "primaryLanguage": "C#",
       "topics": [],
-      "updatedAt": "2026-01-10T14:40:53Z",
+      "updatedAt": "2026-02-10T13:21:03Z",
       "createdAt": "2023-12-24T05:08:04Z"
     }
   ],
   "closedIssues": 26,
   "openIssues": 10,
-  "fetchedAt": 1770726342380
+  "fetchedAt": 1770812641933
 }
