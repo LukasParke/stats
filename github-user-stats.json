@@ -9,15 +9,15 @@
   "twitterUsername": null,
   "websiteUrl": "parke.dev",
   "createdAt": "2013-10-16T16:40:20Z",
-  "repoViews": 571,
-  "linesOfCodeChanged": 20597546,
-  "linesAdded": 12724336,
-  "linesDeleted": 7873210,
-  "commitCount": 3505,
-  "totalCommits": 5594,
+  "repoViews": 520,
+  "linesOfCodeChanged": 20597935,
+  "linesAdded": 12724490,
+  "linesDeleted": 7873445,
+  "commitCount": 3510,
+  "totalCommits": 5599,
   "totalPullRequests": 139,
   "totalPullRequestReviews": 58,
-  "codeByteTotal": 205220922,
+  "codeByteTotal": 205222277,
   "topLanguages": [
     {
       "languageName": "PowerShell",
@@ -52,7 +52,7 @@
     {
       "languageName": "Go",
       "color": "#00ADD8",
-      "value": 8661589,
+      "value": 8661979,
       "percentage": 4.22
     },
     {
@@ -65,7 +65,7 @@
       "languageName": "Python",
       "color": "#3572A5",
       "value": 7193001,
-      "percentage": 3.51
+      "percentage": 3.5
     },
     {
       "languageName": "Svelte",
@@ -118,7 +118,7 @@
     {
       "languageName": "Shell",
       "color": "#89e051",
-      "value": 370242,
+      "value": 371207,
       "percentage": 0.18
     },
     {
@@ -267,21 +267,21 @@
     }
   ],
   "forkCount": 94,
-  "starCount": 468,
+  "starCount": 469,
   "starsGiven": 543,
   "followers": 60,
   "following": 71,
   "repositoriesContributedTo": 17,
   "discussionsStarted": 3,
   "discussionsAnswered": 0,
-  "totalContributions": 5587,
+  "totalContributions": 5592,
   "contributionStats": {
-    "longestStreak": 680,
-    "currentStreak": 680,
+    "longestStreak": 681,
+    "currentStreak": 681,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 1.24,
-    "averagePerWeek": 8.66,
-    "averagePerMonth": 37.12,
+    "averagePerWeek": 8.67,
+    "averagePerMonth": 37.15,
     "monthlyBreakdown": [
       {
         "month": "2013-10",
@@ -877,7 +877,7 @@
       },
       {
         "month": "2026-02",
-        "contributions": 46
+        "contributions": 51
       }
     ]
   },
@@ -888,10 +888,10 @@
     "archivedRepos": 1,
     "forkedRepos": 47,
     "originalRepos": 125,
-    "activeRepos": 23,
+    "activeRepos": 24,
     "reposWithStars": 40,
     "reposCreatedThisYear": 4,
-    "averageStarsPerRepo": 2.72
+    "averageStarsPerRepo": 2.73
   },
   "computedStats": {
     "totalRepos": 172,
@@ -900,10 +900,10 @@
     "archivedRepos": 1,
     "forkedRepos": 47,
     "originalRepos": 125,
-    "activeRepos": 23,
+    "activeRepos": 24,
     "reposWithStars": 40,
     "reposCreatedThisYear": 4,
-    "averageStarsPerRepo": 2.72,
+    "averageStarsPerRepo": 2.73,
     "languageCount": 41,
     "primaryLanguage": "PowerShell",
     "primaryLanguageThisYear": "Java",
@@ -912,24 +912,24 @@
         "languageName": "Java",
         "color": "#b07219",
         "value": 18188962,
-        "percentage": 43.38
+        "percentage": 43.34
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
-        "value": 7314308,
-        "percentage": 17.45
+        "value": 7341420,
+        "percentage": 17.49
       },
       {
         "languageName": "Python",
         "color": "#3572A5",
         "value": 5448355,
-        "percentage": 13
+        "percentage": 12.98
       },
       {
         "languageName": "Go",
         "color": "#00ADD8",
-        "value": 4202652,
+        "value": 4203042,
         "percentage": 10.02
       },
       {
@@ -941,14 +941,14 @@
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 2799983,
+        "value": 2801227,
         "percentage": 6.68
       },
       {
         "languageName": "Svelte",
         "color": "#ff3e00",
-        "value": 227075,
-        "percentage": 0.54
+        "value": 234443,
+        "percentage": 0.56
       },
       {
         "languageName": "YAML",
@@ -959,8 +959,8 @@
       {
         "languageName": "HTML",
         "color": "#e34c26",
-        "value": 51432,
-        "percentage": 0.12
+        "value": 53347,
+        "percentage": 0.13
       },
       {
         "languageName": "Astro",
@@ -1029,23 +1029,23 @@
       "sveltekit",
       "template"
     ],
-    "contributionsThisYear": 181,
+    "contributionsThisYear": 186,
     "contributionsLastYear": 2203,
-    "yearOverYearGrowth": -91.78,
+    "yearOverYearGrowth": -91.56,
     "mostProductiveMonth": {
       "month": "2023-04",
       "contributions": 365
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 5063,
+    "totalCommitContributions": 5068,
     "restrictedContributionsCount": 109,
     "totalIssueContributions": 36,
     "totalRepositoryContributions": 174,
     "totalPullRequestContributions": 139,
     "totalPullRequestReviewContributions": 58,
     "contributionCalendar": {
-      "totalContributions": 5587,
+      "totalContributions": 5592,
       "weeks": [
         {
           "contributionDays": [
@@ -21722,8 +21722,16 @@
               "date": "2026-02-13"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 5,
               "date": "2026-02-14"
+            }
+          ]
+        },
+        {
+          "contributionDays": [
+            {
+              "contributionCount": 1,
+              "date": "2026-02-15"
             }
           ]
         }
@@ -21746,20 +21754,20 @@
         "plex",
         "pms"
       ],
-      "updatedAt": "2026-02-14T11:09:41Z",
+      "updatedAt": "2026-02-15T11:10:19Z",
       "createdAt": "2023-03-24T13:33:38Z"
     },
     {
       "name": "plexjs",
       "description": "A Typescript SDK for interacting with Plex Media Server",
-      "stars": 46,
+      "stars": 47,
       "forks": 3,
       "isArchived": false,
       "isFork": false,
       "isPrivate": false,
       "primaryLanguage": "TypeScript",
       "topics": [],
-      "updatedAt": "2026-01-20T07:09:29Z",
+      "updatedAt": "2026-02-15T10:27:52Z",
       "createdAt": "2023-04-07T01:56:42Z"
     },
     {
@@ -21869,5 +21877,5 @@
   ],
   "closedIssues": 26,
   "openIssues": 10,
-  "fetchedAt": 1771071185427
+  "fetchedAt": 1771157641101
 }
