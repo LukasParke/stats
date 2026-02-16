@@ -9,15 +9,15 @@
   "twitterUsername": null,
   "websiteUrl": "parke.dev",
   "createdAt": "2013-10-16T16:40:20Z",
-  "repoViews": 520,
-  "linesOfCodeChanged": 20597935,
-  "linesAdded": 12724490,
-  "linesDeleted": 7873445,
-  "commitCount": 3510,
-  "totalCommits": 5599,
+  "repoViews": 510,
+  "linesOfCodeChanged": 20598543,
+  "linesAdded": 12725003,
+  "linesDeleted": 7873540,
+  "commitCount": 3515,
+  "totalCommits": 5605,
   "totalPullRequests": 139,
   "totalPullRequestReviews": 58,
-  "codeByteTotal": 205222277,
+  "codeByteTotal": 205223859,
   "topLanguages": [
     {
       "languageName": "PowerShell",
@@ -52,7 +52,7 @@
     {
       "languageName": "Go",
       "color": "#00ADD8",
-      "value": 8661979,
+      "value": 8663561,
       "percentage": 4.22
     },
     {
@@ -267,21 +267,21 @@
     }
   ],
   "forkCount": 94,
-  "starCount": 469,
+  "starCount": 470,
   "starsGiven": 543,
   "followers": 60,
   "following": 71,
   "repositoriesContributedTo": 17,
   "discussionsStarted": 3,
   "discussionsAnswered": 0,
-  "totalContributions": 5592,
+  "totalContributions": 5597,
   "contributionStats": {
-    "longestStreak": 681,
-    "currentStreak": 681,
+    "longestStreak": 682,
+    "currentStreak": 682,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 1.24,
     "averagePerWeek": 8.67,
-    "averagePerMonth": 37.15,
+    "averagePerMonth": 37.17,
     "monthlyBreakdown": [
       {
         "month": "2013-10",
@@ -877,7 +877,7 @@
       },
       {
         "month": "2026-02",
-        "contributions": 51
+        "contributions": 56
       }
     ]
   },
@@ -929,7 +929,7 @@
       {
         "languageName": "Go",
         "color": "#00ADD8",
-        "value": 4203042,
+        "value": 4204624,
         "percentage": 10.02
       },
       {
@@ -1029,23 +1029,23 @@
       "sveltekit",
       "template"
     ],
-    "contributionsThisYear": 186,
+    "contributionsThisYear": 191,
     "contributionsLastYear": 2203,
-    "yearOverYearGrowth": -91.56,
+    "yearOverYearGrowth": -91.33,
     "mostProductiveMonth": {
       "month": "2023-04",
       "contributions": 365
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 5068,
+    "totalCommitContributions": 5073,
     "restrictedContributionsCount": 109,
     "totalIssueContributions": 36,
     "totalRepositoryContributions": 174,
     "totalPullRequestContributions": 139,
     "totalPullRequestReviewContributions": 58,
     "contributionCalendar": {
-      "totalContributions": 5592,
+      "totalContributions": 5597,
       "weeks": [
         {
           "contributionDays": [
@@ -21730,8 +21730,12 @@
         {
           "contributionDays": [
             {
-              "contributionCount": 1,
+              "contributionCount": 5,
               "date": "2026-02-15"
+            },
+            {
+              "contributionCount": 1,
+              "date": "2026-02-16"
             }
           ]
         }
@@ -21754,7 +21758,7 @@
         "plex",
         "pms"
       ],
-      "updatedAt": "2026-02-15T11:10:19Z",
+      "updatedAt": "2026-02-16T11:21:15Z",
       "createdAt": "2023-03-24T13:33:38Z"
     },
     {
@@ -21838,14 +21842,14 @@
     {
       "name": "sveltekit-adapters",
       "description": "A collection of SvelteKit adapters for various platforms and examples on how to use them",
-      "stars": 21,
+      "stars": 22,
       "forks": 6,
       "isArchived": false,
       "isFork": false,
       "isPrivate": false,
       "primaryLanguage": "JavaScript",
       "topics": [],
-      "updatedAt": "2026-02-02T17:44:29Z",
+      "updatedAt": "2026-02-16T08:04:28Z",
       "createdAt": "2024-02-15T21:44:05Z"
     },
     {
@@ -21877,5 +21881,5 @@
   ],
   "closedIssues": 26,
   "openIssues": 10,
-  "fetchedAt": 1771157641101
+  "fetchedAt": 1771244432742
 }
