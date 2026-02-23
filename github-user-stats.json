@@ -9,12 +9,12 @@
   "twitterUsername": null,
   "websiteUrl": "parke.dev",
   "createdAt": "2013-10-16T16:40:20Z",
-  "repoViews": 566,
-  "linesOfCodeChanged": 20629225,
-  "linesAdded": 12755052,
-  "linesDeleted": 7874173,
-  "commitCount": 3538,
-  "totalCommits": 5689,
+  "repoViews": 511,
+  "linesOfCodeChanged": 20629267,
+  "linesAdded": 12755077,
+  "linesDeleted": 7874190,
+  "commitCount": 3540,
+  "totalCommits": 5691,
   "totalPullRequests": 141,
   "totalPullRequestReviews": 58,
   "codeByteTotal": 208740816,
@@ -273,21 +273,21 @@
     }
   ],
   "forkCount": 97,
-  "starCount": 471,
-  "starsGiven": 543,
+  "starCount": 473,
+  "starsGiven": 544,
   "followers": 61,
   "following": 71,
   "repositoriesContributedTo": 19,
   "discussionsStarted": 3,
   "discussionsAnswered": 0,
-  "totalContributions": 5630,
+  "totalContributions": 5632,
   "contributionStats": {
-    "longestStreak": 688,
-    "currentStreak": 688,
+    "longestStreak": 689,
+    "currentStreak": 689,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 1.24,
     "averagePerWeek": 8.71,
-    "averagePerMonth": 37.34,
+    "averagePerMonth": 37.35,
     "monthlyBreakdown": [
       {
         "month": "2013-10",
@@ -883,7 +883,7 @@
       },
       {
         "month": "2026-02",
-        "contributions": 89
+        "contributions": 91
       }
     ]
   },
@@ -894,10 +894,10 @@
     "archivedRepos": 1,
     "forkedRepos": 49,
     "originalRepos": 126,
-    "activeRepos": 27,
-    "reposWithStars": 40,
+    "activeRepos": 28,
+    "reposWithStars": 41,
     "reposCreatedThisYear": 7,
-    "averageStarsPerRepo": 2.69
+    "averageStarsPerRepo": 2.7
   },
   "computedStats": {
     "totalRepos": 175,
@@ -906,10 +906,10 @@
     "archivedRepos": 1,
     "forkedRepos": 49,
     "originalRepos": 126,
-    "activeRepos": 27,
-    "reposWithStars": 40,
+    "activeRepos": 28,
+    "reposWithStars": 41,
     "reposCreatedThisYear": 7,
-    "averageStarsPerRepo": 2.69,
+    "averageStarsPerRepo": 2.7,
     "languageCount": 42,
     "primaryLanguage": "PowerShell",
     "primaryLanguageThisYear": "Java",
@@ -1035,23 +1035,23 @@
       "sveltekit",
       "template"
     ],
-    "contributionsThisYear": 224,
+    "contributionsThisYear": 226,
     "contributionsLastYear": 2203,
-    "yearOverYearGrowth": -89.83,
+    "yearOverYearGrowth": -89.74,
     "mostProductiveMonth": {
       "month": "2023-04",
       "contributions": 365
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 5101,
+    "totalCommitContributions": 5103,
     "restrictedContributionsCount": 109,
     "totalIssueContributions": 36,
     "totalRepositoryContributions": 177,
     "totalPullRequestContributions": 141,
     "totalPullRequestReviewContributions": 58,
     "contributionCalendar": {
-      "totalContributions": 5630,
+      "totalContributions": 5632,
       "weeks": [
         {
           "contributionDays": [
@@ -21768,8 +21768,12 @@
         {
           "contributionDays": [
             {
-              "contributionCount": 1,
+              "contributionCount": 2,
               "date": "2026-02-22"
+            },
+            {
+              "contributionCount": 1,
+              "date": "2026-02-23"
             }
           ]
         }
@@ -21792,7 +21796,7 @@
         "plex",
         "pms"
       ],
-      "updatedAt": "2026-02-22T12:13:42Z",
+      "updatedAt": "2026-02-23T12:21:00Z",
       "createdAt": "2023-03-24T13:33:38Z"
     },
     {
@@ -21863,14 +21867,14 @@
     {
       "name": "archives-of-nethys-scraper",
       "description": "A simple tool to gather datasets from archives of nethys",
-      "stars": 23,
+      "stars": 24,
       "forks": 8,
       "isArchived": false,
       "isFork": false,
       "isPrivate": false,
       "primaryLanguage": "TypeScript",
       "topics": [],
-      "updatedAt": "2026-02-06T22:24:19Z",
+      "updatedAt": "2026-02-22T15:44:58Z",
       "createdAt": "2023-06-14T15:35:36Z"
     },
     {
@@ -21915,5 +21919,5 @@
   ],
   "closedIssues": 26,
   "openIssues": 10,
-  "fetchedAt": 1771762435365
+  "fetchedAt": 1771849269748
 }
