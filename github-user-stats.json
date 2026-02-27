@@ -9,39 +9,39 @@
   "twitterUsername": null,
   "websiteUrl": "parke.dev",
   "createdAt": "2013-10-16T16:40:20Z",
-  "repoViews": 553,
-  "linesOfCodeChanged": 20627709,
-  "linesAdded": 12753736,
-  "linesDeleted": 7873973,
-  "commitCount": 3542,
-  "totalCommits": 5697,
+  "repoViews": 557,
+  "linesOfCodeChanged": 20629465,
+  "linesAdded": 12755184,
+  "linesDeleted": 7874281,
+  "commitCount": 3548,
+  "totalCommits": 5699,
   "totalPullRequests": 141,
-  "totalPullRequestReviews": 58,
-  "codeByteTotal": 208740816,
+  "totalPullRequestReviews": 59,
+  "codeByteTotal": 208913258,
   "topLanguages": [
     {
       "languageName": "PowerShell",
       "color": "#012456",
       "value": 58546711,
-      "percentage": 28.05
+      "percentage": 28.02
     },
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
       "value": 34382701,
-      "percentage": 16.47
+      "percentage": 16.46
     },
     {
       "languageName": "MDX",
       "color": "#fcb32c",
       "value": 34116935,
-      "percentage": 16.34
+      "percentage": 16.33
     },
     {
       "languageName": "Java",
       "color": "#b07219",
       "value": 22388793,
-      "percentage": 10.73
+      "percentage": 10.72
     },
     {
       "languageName": "HTML",
@@ -52,26 +52,26 @@
     {
       "languageName": "Go",
       "color": "#00ADD8",
-      "value": 11009706,
-      "percentage": 5.27
+      "value": 11182148,
+      "percentage": 5.35
     },
     {
       "languageName": "JavaScript",
       "color": "#f1e05a",
       "value": 7547709,
-      "percentage": 3.62
+      "percentage": 3.61
     },
     {
       "languageName": "Python",
       "color": "#3572A5",
       "value": 7193001,
-      "percentage": 3.45
+      "percentage": 3.44
     },
     {
       "languageName": "Svelte",
       "color": "#ff3e00",
       "value": 6546574,
-      "percentage": 3.14
+      "percentage": 3.13
     },
     {
       "languageName": "C#",
@@ -273,21 +273,21 @@
     }
   ],
   "forkCount": 98,
-  "starCount": 474,
+  "starCount": 475,
   "starsGiven": 544,
   "followers": 61,
   "following": 71,
   "repositoriesContributedTo": 19,
   "discussionsStarted": 3,
   "discussionsAnswered": 0,
-  "totalContributions": 5638,
+  "totalContributions": 5641,
   "contributionStats": {
-    "longestStreak": 692,
-    "currentStreak": 692,
+    "longestStreak": 693,
+    "currentStreak": 693,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 1.25,
     "averagePerWeek": 8.72,
-    "averagePerMonth": 37.36,
+    "averagePerMonth": 37.37,
     "monthlyBreakdown": [
       {
         "month": "2013-10",
@@ -883,7 +883,7 @@
       },
       {
         "month": "2026-02",
-        "contributions": 97
+        "contributions": 100
       }
     ]
   },
@@ -918,43 +918,43 @@
         "languageName": "Java",
         "color": "#b07219",
         "value": 18188962,
-        "percentage": 39.99
+        "percentage": 39.84
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 8391616,
-        "percentage": 18.45
+        "percentage": 18.38
       },
       {
         "languageName": "Go",
         "color": "#00ADD8",
-        "value": 6550769,
-        "percentage": 14.4
+        "value": 6723211,
+        "percentage": 14.73
       },
       {
         "languageName": "Python",
         "color": "#3572A5",
         "value": 5448355,
-        "percentage": 11.98
+        "percentage": 11.93
       },
       {
         "languageName": "C#",
         "color": "#178600",
         "value": 3464907,
-        "percentage": 7.62
+        "percentage": 7.59
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
         "value": 2900830,
-        "percentage": 6.38
+        "percentage": 6.35
       },
       {
         "languageName": "Svelte",
         "color": "#ff3e00",
         "value": 234443,
-        "percentage": 0.52
+        "percentage": 0.51
       },
       {
         "languageName": "YAML",
@@ -1035,23 +1035,23 @@
       "sveltekit",
       "template"
     ],
-    "contributionsThisYear": 232,
+    "contributionsThisYear": 235,
     "contributionsLastYear": 2203,
-    "yearOverYearGrowth": -89.47,
+    "yearOverYearGrowth": -89.33,
     "mostProductiveMonth": {
       "month": "2023-04",
       "contributions": 365
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 5109,
+    "totalCommitContributions": 5111,
     "restrictedContributionsCount": 109,
     "totalIssueContributions": 36,
     "totalRepositoryContributions": 177,
     "totalPullRequestContributions": 141,
-    "totalPullRequestReviewContributions": 58,
+    "totalPullRequestReviewContributions": 59,
     "contributionCalendar": {
-      "totalContributions": 5638,
+      "totalContributions": 5641,
       "weeks": [
         {
           "contributionDays": [
@@ -21784,8 +21784,12 @@
               "date": "2026-02-25"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 3,
               "date": "2026-02-26"
+            },
+            {
+              "contributionCount": 1,
+              "date": "2026-02-27"
             }
           ]
         }
@@ -21808,7 +21812,7 @@
         "plex",
         "pms"
       ],
-      "updatedAt": "2026-02-26T12:21:27Z",
+      "updatedAt": "2026-02-27T11:16:13Z",
       "createdAt": "2023-03-24T13:33:38Z"
     },
     {
@@ -21853,14 +21857,14 @@
     {
       "name": "plexgo",
       "description": "An open source Plex Media Server Golang SDK",
-      "stars": 34,
+      "stars": 35,
       "forks": 7,
       "isArchived": false,
       "isFork": false,
       "isPrivate": false,
       "primaryLanguage": "Go",
       "topics": [],
-      "updatedAt": "2026-01-11T00:15:29Z",
+      "updatedAt": "2026-02-27T08:11:00Z",
       "createdAt": "2023-08-09T14:39:33Z"
     },
     {
@@ -21931,5 +21935,5 @@
   ],
   "closedIssues": 26,
   "openIssues": 10,
-  "fetchedAt": 1772108496129
+  "fetchedAt": 1772194657925
 }
