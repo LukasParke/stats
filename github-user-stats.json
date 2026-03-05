@@ -9,21 +9,21 @@
   "twitterUsername": null,
   "websiteUrl": "parke.dev",
   "createdAt": "2013-10-16T16:40:20Z",
-  "repoViews": 627,
-  "linesOfCodeChanged": 20670613,
-  "linesAdded": 12793586,
-  "linesDeleted": 7877027,
-  "commitCount": 3572,
-  "totalCommits": 5721,
+  "repoViews": 599,
+  "linesOfCodeChanged": 20672009,
+  "linesAdded": 12794926,
+  "linesDeleted": 7877083,
+  "commitCount": 3577,
+  "totalCommits": 5726,
   "totalPullRequests": 141,
   "totalPullRequestReviews": 59,
-  "codeByteTotal": 209859749,
+  "codeByteTotal": 209890138,
   "topLanguages": [
     {
       "languageName": "PowerShell",
       "color": "#012456",
       "value": 58546711,
-      "percentage": 27.9
+      "percentage": 27.89
     },
     {
       "languageName": "TypeScript",
@@ -35,7 +35,7 @@
       "languageName": "MDX",
       "color": "#fcb32c",
       "value": 34116935,
-      "percentage": 16.26
+      "percentage": 16.25
     },
     {
       "languageName": "Java",
@@ -46,8 +46,8 @@
     {
       "languageName": "Go",
       "color": "#00ADD8",
-      "value": 11829872,
-      "percentage": 5.64
+      "value": 11860261,
+      "percentage": 5.65
     },
     {
       "languageName": "HTML",
@@ -101,7 +101,7 @@
       "languageName": "Swift",
       "color": "#F05138",
       "value": 1962471,
-      "percentage": 0.94
+      "percentage": 0.93
     },
     {
       "languageName": "SCSS",
@@ -280,14 +280,14 @@
   "repositoriesContributedTo": 19,
   "discussionsStarted": 3,
   "discussionsAnswered": 0,
-  "totalContributions": 5666,
+  "totalContributions": 5671,
   "contributionStats": {
-    "longestStreak": 698,
-    "currentStreak": 698,
+    "longestStreak": 699,
+    "currentStreak": 699,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 1.25,
-    "averagePerWeek": 8.75,
-    "averagePerMonth": 37.5,
+    "averagePerWeek": 8.76,
+    "averagePerMonth": 37.52,
     "monthlyBreakdown": [
       {
         "month": "2013-10",
@@ -887,7 +887,7 @@
       },
       {
         "month": "2026-03",
-        "contributions": 20
+        "contributions": 25
       }
     ]
   },
@@ -922,37 +922,37 @@
         "languageName": "Java",
         "color": "#b07219",
         "value": 18188962,
-        "percentage": 39.03
+        "percentage": 39.01
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 8429774,
-        "percentage": 18.09
+        "percentage": 18.08
       },
       {
         "languageName": "Go",
         "color": "#00ADD8",
-        "value": 7370935,
-        "percentage": 15.82
+        "value": 7401324,
+        "percentage": 15.87
       },
       {
         "languageName": "Python",
         "color": "#3572A5",
         "value": 5448355,
-        "percentage": 11.69
+        "percentage": 11.68
       },
       {
         "languageName": "C#",
         "color": "#178600",
         "value": 3464907,
-        "percentage": 7.44
+        "percentage": 7.43
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
         "value": 2901071,
-        "percentage": 6.23
+        "percentage": 6.22
       },
       {
         "languageName": "Svelte",
@@ -1039,23 +1039,23 @@
       "sveltekit",
       "template"
     ],
-    "contributionsThisYear": 260,
+    "contributionsThisYear": 265,
     "contributionsLastYear": 2203,
-    "yearOverYearGrowth": -88.2,
+    "yearOverYearGrowth": -87.97,
     "mostProductiveMonth": {
       "month": "2023-04",
       "contributions": 365
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 5135,
+    "totalCommitContributions": 5140,
     "restrictedContributionsCount": 109,
     "totalIssueContributions": 36,
     "totalRepositoryContributions": 178,
     "totalPullRequestContributions": 141,
     "totalPullRequestReviewContributions": 59,
     "contributionCalendar": {
-      "totalContributions": 5666,
+      "totalContributions": 5671,
       "weeks": [
         {
           "contributionDays": [
@@ -21816,8 +21816,12 @@
               "date": "2026-03-03"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 5,
               "date": "2026-03-04"
+            },
+            {
+              "contributionCount": 1,
+              "date": "2026-03-05"
             }
           ]
         }
@@ -21840,7 +21844,7 @@
         "plex",
         "pms"
       ],
-      "updatedAt": "2026-03-04T12:17:37Z",
+      "updatedAt": "2026-03-05T12:19:33Z",
       "createdAt": "2023-03-24T13:33:38Z"
     },
     {
@@ -21963,5 +21967,5 @@
   ],
   "closedIssues": 26,
   "openIssues": 10,
-  "fetchedAt": 1772626676144
+  "fetchedAt": 1772713176235
 }
