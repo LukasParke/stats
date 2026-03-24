@@ -9,12 +9,12 @@
   "twitterUsername": null,
   "websiteUrl": "parke.dev",
   "createdAt": "2013-10-16T16:40:20Z",
-  "repoViews": 467,
-  "linesOfCodeChanged": 16100325,
-  "linesAdded": 10813134,
-  "linesDeleted": 5287191,
-  "commitCount": 3027,
-  "totalCommits": 5824,
+  "repoViews": 516,
+  "linesOfCodeChanged": 20786732,
+  "linesAdded": 12907674,
+  "linesDeleted": 7879058,
+  "commitCount": 3652,
+  "totalCommits": 5826,
   "totalPullRequests": 144,
   "totalPullRequestReviews": 60,
   "codeByteTotal": 213930070,
@@ -284,22 +284,22 @@
       "percentage": 0
     }
   ],
-  "forkCount": 99,
+  "forkCount": 100,
   "starCount": 477,
   "starsGiven": 544,
   "followers": 63,
-  "following": 71,
+  "following": 57,
   "repositoriesContributedTo": 20,
   "discussionsStarted": 3,
   "discussionsAnswered": 0,
-  "totalContributions": 5760,
+  "totalContributions": 5762,
   "contributionStats": {
-    "longestStreak": 717,
-    "currentStreak": 717,
+    "longestStreak": 718,
+    "currentStreak": 718,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 1.27,
     "averagePerWeek": 8.86,
-    "averagePerMonth": 37.96,
+    "averagePerMonth": 37.97,
     "monthlyBreakdown": [
       {
         "month": "2013-10",
@@ -899,7 +899,7 @@
       },
       {
         "month": "2026-03",
-        "contributions": 104
+        "contributions": 106
       }
     ]
   },
@@ -1051,23 +1051,23 @@
       "sveltekit",
       "template"
     ],
-    "contributionsThisYear": 349,
+    "contributionsThisYear": 351,
     "contributionsLastYear": 2208,
-    "yearOverYearGrowth": -84.19,
+    "yearOverYearGrowth": -84.1,
     "mostProductiveMonth": {
       "month": "2023-04",
       "contributions": 365
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 5221,
+    "totalCommitContributions": 5223,
     "restrictedContributionsCount": 109,
     "totalIssueContributions": 36,
     "totalRepositoryContributions": 182,
     "totalPullRequestContributions": 144,
     "totalPullRequestReviewContributions": 60,
     "contributionCalendar": {
-      "totalContributions": 5760,
+      "totalContributions": 5762,
       "weeks": [
         {
           "contributionDays": [
@@ -21916,8 +21916,12 @@
               "date": "2026-03-22"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 2,
               "date": "2026-03-23"
+            },
+            {
+              "contributionCount": 1,
+              "date": "2026-03-24"
             }
           ]
         }
@@ -21940,7 +21944,7 @@
         "plex",
         "pms"
       ],
-      "updatedAt": "2026-03-23T12:23:12Z",
+      "updatedAt": "2026-03-24T12:24:19Z",
       "createdAt": "2023-03-24T13:33:38Z"
     },
     {
@@ -22012,7 +22016,7 @@
       "name": "archives-of-nethys-scraper",
       "description": "A simple tool to gather datasets from archives of nethys",
       "stars": 24,
-      "forks": 8,
+      "forks": 9,
       "isArchived": false,
       "isFork": false,
       "isPrivate": false,
@@ -22063,5 +22067,5 @@
   ],
   "closedIssues": 26,
   "openIssues": 10,
-  "fetchedAt": 1774268618198
+  "fetchedAt": 1774355081626
 }
