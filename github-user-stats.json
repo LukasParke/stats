@@ -9,13 +9,13 @@
   "twitterUsername": null,
   "websiteUrl": "parke.dev",
   "createdAt": "2013-10-16T16:40:20Z",
-  "repoViews": 516,
-  "linesOfCodeChanged": 20786732,
-  "linesAdded": 12907674,
-  "linesDeleted": 7879058,
-  "commitCount": 3652,
-  "totalCommits": 5826,
-  "totalPullRequests": 144,
+  "repoViews": 531,
+  "linesOfCodeChanged": 20786778,
+  "linesAdded": 12907699,
+  "linesDeleted": 7879079,
+  "commitCount": 3654,
+  "totalCommits": 5830,
+  "totalPullRequests": 146,
   "totalPullRequestReviews": 60,
   "codeByteTotal": 213930070,
   "topLanguages": [
@@ -285,21 +285,21 @@
     }
   ],
   "forkCount": 100,
-  "starCount": 477,
+  "starCount": 479,
   "starsGiven": 544,
   "followers": 63,
   "following": 57,
   "repositoriesContributedTo": 20,
   "discussionsStarted": 3,
   "discussionsAnswered": 0,
-  "totalContributions": 5762,
+  "totalContributions": 5766,
   "contributionStats": {
-    "longestStreak": 718,
-    "currentStreak": 718,
+    "longestStreak": 719,
+    "currentStreak": 719,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 1.27,
     "averagePerWeek": 8.86,
-    "averagePerMonth": 37.97,
+    "averagePerMonth": 37.98,
     "monthlyBreakdown": [
       {
         "month": "2013-10",
@@ -899,7 +899,7 @@
       },
       {
         "month": "2026-03",
-        "contributions": 106
+        "contributions": 110
       }
     ]
   },
@@ -910,10 +910,10 @@
     "archivedRepos": 1,
     "forkedRepos": 50,
     "originalRepos": 130,
-    "activeRepos": 34,
+    "activeRepos": 35,
     "reposWithStars": 41,
     "reposCreatedThisYear": 12,
-    "averageStarsPerRepo": 2.65
+    "averageStarsPerRepo": 2.66
   },
   "computedStats": {
     "totalRepos": 180,
@@ -922,10 +922,10 @@
     "archivedRepos": 1,
     "forkedRepos": 50,
     "originalRepos": 130,
-    "activeRepos": 34,
+    "activeRepos": 35,
     "reposWithStars": 41,
     "reposCreatedThisYear": 12,
-    "averageStarsPerRepo": 2.65,
+    "averageStarsPerRepo": 2.66,
     "languageCount": 44,
     "primaryLanguage": "PowerShell",
     "primaryLanguageThisYear": "Java",
@@ -934,7 +934,7 @@
         "languageName": "Java",
         "color": "#b07219",
         "value": 18262430,
-        "percentage": 34.76
+        "percentage": 34.75
       },
       {
         "languageName": "TypeScript",
@@ -963,8 +963,8 @@
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 2958613,
-        "percentage": 5.63
+        "value": 2971184,
+        "percentage": 5.65
       },
       {
         "languageName": "Swift",
@@ -1051,23 +1051,23 @@
       "sveltekit",
       "template"
     ],
-    "contributionsThisYear": 351,
+    "contributionsThisYear": 355,
     "contributionsLastYear": 2208,
-    "yearOverYearGrowth": -84.1,
+    "yearOverYearGrowth": -83.92,
     "mostProductiveMonth": {
       "month": "2023-04",
       "contributions": 365
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 5223,
+    "totalCommitContributions": 5225,
     "restrictedContributionsCount": 109,
     "totalIssueContributions": 36,
     "totalRepositoryContributions": 182,
-    "totalPullRequestContributions": 144,
+    "totalPullRequestContributions": 146,
     "totalPullRequestReviewContributions": 60,
     "contributionCalendar": {
-      "totalContributions": 5762,
+      "totalContributions": 5766,
       "weeks": [
         {
           "contributionDays": [
@@ -21920,8 +21920,12 @@
               "date": "2026-03-23"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 4,
               "date": "2026-03-24"
+            },
+            {
+              "contributionCount": 1,
+              "date": "2026-03-25"
             }
           ]
         }
@@ -21932,7 +21936,7 @@
     {
       "name": "plex-api-spec",
       "description": "A Plex Media Server OpenAPI Specification maintained by the community",
-      "stars": 74,
+      "stars": 75,
       "forks": 23,
       "isArchived": false,
       "isFork": false,
@@ -21944,7 +21948,7 @@
         "plex",
         "pms"
       ],
-      "updatedAt": "2026-03-24T12:24:19Z",
+      "updatedAt": "2026-03-25T11:21:03Z",
       "createdAt": "2023-03-24T13:33:38Z"
     },
     {
@@ -22041,14 +22045,14 @@
     {
       "name": "plex-docs",
       "description": "Open Source Plex Media Server API and SDK Documentation",
-      "stars": 20,
+      "stars": 21,
       "forks": 0,
       "isArchived": false,
       "isFork": false,
       "isPrivate": false,
       "primaryLanguage": "JavaScript",
       "topics": [],
-      "updatedAt": "2025-02-19T21:01:09Z",
+      "updatedAt": "2026-03-24T14:39:23Z",
       "createdAt": "2023-03-27T17:17:06Z"
     },
     {
@@ -22067,5 +22071,5 @@
   ],
   "closedIssues": 26,
   "openIssues": 10,
-  "fetchedAt": 1774355081626
+  "fetchedAt": 1774441409916
 }
