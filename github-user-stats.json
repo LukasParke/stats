@@ -9,12 +9,12 @@
   "twitterUsername": null,
   "websiteUrl": "parke.dev",
   "createdAt": "2013-10-16T16:40:20Z",
-  "repoViews": 670,
-  "linesOfCodeChanged": 20143715,
-  "linesAdded": 12574625,
-  "linesDeleted": 7569090,
-  "commitCount": 3600,
-  "totalCommits": 5844,
+  "repoViews": 685,
+  "linesOfCodeChanged": 3804023,
+  "linesAdded": 3646083,
+  "linesDeleted": 157940,
+  "commitCount": 763,
+  "totalCommits": 5846,
   "totalPullRequests": 146,
   "totalPullRequestReviews": 60,
   "codeByteTotal": 213949041,
@@ -285,17 +285,17 @@
     }
   ],
   "forkCount": 100,
-  "starCount": 482,
+  "starCount": 483,
   "starsGiven": 544,
   "followers": 62,
   "following": 57,
   "repositoriesContributedTo": 20,
   "discussionsStarted": 3,
   "discussionsAnswered": 0,
-  "totalContributions": 5776,
+  "totalContributions": 5778,
   "contributionStats": {
-    "longestStreak": 723,
-    "currentStreak": 723,
+    "longestStreak": 724,
+    "currentStreak": 724,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 1.27,
     "averagePerWeek": 8.87,
@@ -899,7 +899,7 @@
       },
       {
         "month": "2026-03",
-        "contributions": 120
+        "contributions": 122
       }
     ]
   },
@@ -1051,23 +1051,23 @@
       "sveltekit",
       "template"
     ],
-    "contributionsThisYear": 365,
+    "contributionsThisYear": 367,
     "contributionsLastYear": 2208,
-    "yearOverYearGrowth": -83.47,
+    "yearOverYearGrowth": -83.38,
     "mostProductiveMonth": {
       "month": "2023-04",
       "contributions": 365
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 5235,
+    "totalCommitContributions": 5237,
     "restrictedContributionsCount": 109,
     "totalIssueContributions": 36,
     "totalRepositoryContributions": 182,
     "totalPullRequestContributions": 146,
     "totalPullRequestReviewContributions": 60,
     "contributionCalendar": {
-      "totalContributions": 5776,
+      "totalContributions": 5778,
       "weeks": [
         {
           "contributionDays": [
@@ -21944,8 +21944,12 @@
         {
           "contributionDays": [
             {
-              "contributionCount": 1,
+              "contributionCount": 2,
               "date": "2026-03-29"
+            },
+            {
+              "contributionCount": 1,
+              "date": "2026-03-30"
             }
           ]
         }
@@ -21956,7 +21960,7 @@
     {
       "name": "plex-api-spec",
       "description": "A Plex Media Server OpenAPI Specification maintained by the community",
-      "stars": 76,
+      "stars": 77,
       "forks": 23,
       "isArchived": false,
       "isFork": false,
@@ -21968,7 +21972,7 @@
         "plex",
         "pms"
       ],
-      "updatedAt": "2026-03-29T11:12:35Z",
+      "updatedAt": "2026-03-30T12:27:02Z",
       "createdAt": "2023-03-24T13:33:38Z"
     },
     {
@@ -22091,5 +22095,5 @@
   ],
   "closedIssues": 26,
   "openIssues": 10,
-  "fetchedAt": 1774786623179
+  "fetchedAt": 1774873630279
 }
