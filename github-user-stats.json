@@ -9,21 +9,21 @@
   "twitterUsername": null,
   "websiteUrl": "parke.dev",
   "createdAt": "2013-10-16T16:40:20Z",
-  "repoViews": 685,
-  "linesOfCodeChanged": 3804023,
-  "linesAdded": 3646083,
-  "linesDeleted": 157940,
-  "commitCount": 763,
-  "totalCommits": 5846,
+  "repoViews": 719,
+  "linesOfCodeChanged": 15401589,
+  "linesAdded": 9835484,
+  "linesDeleted": 5566105,
+  "commitCount": 2966,
+  "totalCommits": 5848,
   "totalPullRequests": 146,
   "totalPullRequestReviews": 60,
-  "codeByteTotal": 213949041,
+  "codeByteTotal": 214034116,
   "topLanguages": [
     {
       "languageName": "PowerShell",
       "color": "#012456",
       "value": 58546711,
-      "percentage": 27.36
+      "percentage": 27.35
     },
     {
       "languageName": "TypeScript",
@@ -35,13 +35,13 @@
       "languageName": "MDX",
       "color": "#fcb32c",
       "value": 34116935,
-      "percentage": 15.95
+      "percentage": 15.94
     },
     {
       "languageName": "Java",
       "color": "#b07219",
       "value": 22462261,
-      "percentage": 10.5
+      "percentage": 10.49
     },
     {
       "languageName": "Go",
@@ -53,7 +53,7 @@
       "languageName": "HTML",
       "color": "#e34c26",
       "value": 11460076,
-      "percentage": 5.36
+      "percentage": 5.35
     },
     {
       "languageName": "Python",
@@ -76,8 +76,8 @@
     {
       "languageName": "C#",
       "color": "#178600",
-      "value": 4007742,
-      "percentage": 1.87
+      "value": 4092817,
+      "percentage": 1.91
     },
     {
       "languageName": "Dart",
@@ -285,21 +285,21 @@
     }
   ],
   "forkCount": 100,
-  "starCount": 483,
+  "starCount": 487,
   "starsGiven": 544,
-  "followers": 62,
+  "followers": 63,
   "following": 57,
   "repositoriesContributedTo": 20,
   "discussionsStarted": 3,
   "discussionsAnswered": 0,
-  "totalContributions": 5778,
+  "totalContributions": 5780,
   "contributionStats": {
-    "longestStreak": 724,
-    "currentStreak": 724,
+    "longestStreak": 725,
+    "currentStreak": 725,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 1.27,
     "averagePerWeek": 8.87,
-    "averagePerMonth": 38.02,
+    "averagePerMonth": 38.03,
     "monthlyBreakdown": [
       {
         "month": "2013-10",
@@ -899,7 +899,7 @@
       },
       {
         "month": "2026-03",
-        "contributions": 122
+        "contributions": 124
       }
     ]
   },
@@ -913,7 +913,7 @@
     "activeRepos": 37,
     "reposWithStars": 41,
     "reposCreatedThisYear": 12,
-    "averageStarsPerRepo": 2.68
+    "averageStarsPerRepo": 2.71
   },
   "computedStats": {
     "totalRepos": 180,
@@ -925,7 +925,7 @@
     "activeRepos": 37,
     "reposWithStars": 41,
     "reposCreatedThisYear": 12,
-    "averageStarsPerRepo": 2.68,
+    "averageStarsPerRepo": 2.71,
     "languageCount": 44,
     "primaryLanguage": "PowerShell",
     "primaryLanguageThisYear": "Java",
@@ -934,49 +934,49 @@
         "languageName": "Java",
         "color": "#b07219",
         "value": 18262430,
-        "percentage": 34.49
+        "percentage": 34.44
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 8858216,
-        "percentage": 16.73
+        "percentage": 16.7
       },
       {
         "languageName": "Go",
         "color": "#00ADD8",
         "value": 8002592,
-        "percentage": 15.12
+        "percentage": 15.09
       },
       {
         "languageName": "Python",
         "color": "#3572A5",
         "value": 6130169,
-        "percentage": 11.58
+        "percentage": 11.56
       },
       {
         "languageName": "C#",
         "color": "#178600",
-        "value": 3998139,
-        "percentage": 7.55
+        "value": 4083214,
+        "percentage": 7.7
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
         "value": 3053483,
-        "percentage": 5.77
+        "percentage": 5.76
       },
       {
         "languageName": "Swift",
         "color": "#F05138",
         "value": 1863731,
-        "percentage": 3.52
+        "percentage": 3.51
       },
       {
         "languageName": "C",
         "color": "#555555",
         "value": 1396552,
-        "percentage": 2.64
+        "percentage": 2.63
       },
       {
         "languageName": "Svelte",
@@ -988,7 +988,7 @@
         "languageName": "YAML",
         "color": "#cb171e",
         "value": 151098,
-        "percentage": 0.29
+        "percentage": 0.28
       }
     ],
     "totalTopics": 11,
@@ -1051,23 +1051,23 @@
       "sveltekit",
       "template"
     ],
-    "contributionsThisYear": 367,
+    "contributionsThisYear": 369,
     "contributionsLastYear": 2208,
-    "yearOverYearGrowth": -83.38,
+    "yearOverYearGrowth": -83.29,
     "mostProductiveMonth": {
       "month": "2023-04",
       "contributions": 365
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 5237,
+    "totalCommitContributions": 5239,
     "restrictedContributionsCount": 109,
     "totalIssueContributions": 36,
     "totalRepositoryContributions": 182,
     "totalPullRequestContributions": 146,
     "totalPullRequestReviewContributions": 60,
     "contributionCalendar": {
-      "totalContributions": 5778,
+      "totalContributions": 5780,
       "weeks": [
         {
           "contributionDays": [
@@ -21948,8 +21948,12 @@
               "date": "2026-03-29"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 2,
               "date": "2026-03-30"
+            },
+            {
+              "contributionCount": 1,
+              "date": "2026-03-31"
             }
           ]
         }
@@ -21972,7 +21976,7 @@
         "plex",
         "pms"
       ],
-      "updatedAt": "2026-03-30T12:27:02Z",
+      "updatedAt": "2026-03-31T12:27:37Z",
       "createdAt": "2023-03-24T13:33:38Z"
     },
     {
@@ -22069,31 +22073,31 @@
     {
       "name": "plex-docs",
       "description": "Open Source Plex Media Server API and SDK Documentation",
-      "stars": 21,
+      "stars": 22,
       "forks": 0,
       "isArchived": false,
       "isFork": false,
       "isPrivate": false,
       "primaryLanguage": "JavaScript",
       "topics": [],
-      "updatedAt": "2026-03-24T14:39:23Z",
+      "updatedAt": "2026-03-30T22:21:03Z",
       "createdAt": "2023-03-27T17:17:06Z"
     },
     {
       "name": "plexcsharp",
       "description": "An open source Plex Media Server C# SDK",
-      "stars": 16,
+      "stars": 17,
       "forks": 5,
       "isArchived": false,
       "isFork": false,
       "isPrivate": false,
       "primaryLanguage": "C#",
       "topics": [],
-      "updatedAt": "2026-03-11T17:30:08Z",
+      "updatedAt": "2026-03-31T11:13:47Z",
       "createdAt": "2023-12-24T05:08:04Z"
     }
   ],
   "closedIssues": 26,
   "openIssues": 10,
-  "fetchedAt": 1774873630279
+  "fetchedAt": 1774960074123
 }
