@@ -9,45 +9,45 @@
   "twitterUsername": null,
   "websiteUrl": "parke.dev",
   "createdAt": "2013-10-16T16:40:20Z",
-  "repoViews": 719,
-  "linesOfCodeChanged": 15401589,
-  "linesAdded": 9835484,
-  "linesDeleted": 5566105,
-  "commitCount": 2966,
-  "totalCommits": 5848,
+  "repoViews": 727,
+  "linesOfCodeChanged": 15001631,
+  "linesAdded": 9337670,
+  "linesDeleted": 5663961,
+  "commitCount": 2212,
+  "totalCommits": 5850,
   "totalPullRequests": 146,
   "totalPullRequestReviews": 60,
-  "codeByteTotal": 214034116,
+  "codeByteTotal": 214127579,
   "topLanguages": [
     {
       "languageName": "PowerShell",
       "color": "#012456",
       "value": 58546711,
-      "percentage": 27.35
+      "percentage": 27.34
     },
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
-      "value": 34563207,
+      "value": 34579890,
       "percentage": 16.15
     },
     {
       "languageName": "MDX",
       "color": "#fcb32c",
       "value": 34116935,
-      "percentage": 15.94
+      "percentage": 15.93
     },
     {
       "languageName": "Java",
       "color": "#b07219",
-      "value": 22462261,
-      "percentage": 10.49
+      "value": 22487116,
+      "percentage": 10.5
     },
     {
       "languageName": "Go",
       "color": "#00ADD8",
-      "value": 12461529,
-      "percentage": 5.82
+      "value": 12487592,
+      "percentage": 5.83
     },
     {
       "languageName": "HTML",
@@ -58,8 +58,8 @@
     {
       "languageName": "Python",
       "color": "#3572A5",
-      "value": 7874815,
-      "percentage": 3.68
+      "value": 7900677,
+      "percentage": 3.69
     },
     {
       "languageName": "JavaScript",
@@ -89,7 +89,7 @@
       "languageName": "PHP",
       "color": "#4F5D95",
       "value": 2365521,
-      "percentage": 1.11
+      "percentage": 1.1
     },
     {
       "languageName": "Ruby",
@@ -292,10 +292,10 @@
   "repositoriesContributedTo": 20,
   "discussionsStarted": 3,
   "discussionsAnswered": 0,
-  "totalContributions": 5780,
+  "totalContributions": 5782,
   "contributionStats": {
-    "longestStreak": 725,
-    "currentStreak": 725,
+    "longestStreak": 726,
+    "currentStreak": 726,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 1.27,
     "averagePerWeek": 8.87,
@@ -899,7 +899,11 @@
       },
       {
         "month": "2026-03",
-        "contributions": 124
+        "contributions": 125
+      },
+      {
+        "month": "2026-04",
+        "contributions": 1
       }
     ]
   },
@@ -933,38 +937,38 @@
       {
         "languageName": "Java",
         "color": "#b07219",
-        "value": 18262430,
-        "percentage": 34.44
+        "value": 18287285,
+        "percentage": 34.42
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
-        "value": 8858216,
-        "percentage": 16.7
+        "value": 8874899,
+        "percentage": 16.71
       },
       {
         "languageName": "Go",
         "color": "#00ADD8",
-        "value": 8002592,
-        "percentage": 15.09
+        "value": 8028655,
+        "percentage": 15.11
       },
       {
         "languageName": "Python",
         "color": "#3572A5",
-        "value": 6130169,
-        "percentage": 11.56
+        "value": 6156031,
+        "percentage": 11.59
       },
       {
         "languageName": "C#",
         "color": "#178600",
         "value": 4083214,
-        "percentage": 7.7
+        "percentage": 7.69
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
         "value": 3053483,
-        "percentage": 5.76
+        "percentage": 5.75
       },
       {
         "languageName": "Swift",
@@ -1051,23 +1055,23 @@
       "sveltekit",
       "template"
     ],
-    "contributionsThisYear": 369,
+    "contributionsThisYear": 371,
     "contributionsLastYear": 2208,
-    "yearOverYearGrowth": -83.29,
+    "yearOverYearGrowth": -83.2,
     "mostProductiveMonth": {
       "month": "2023-04",
       "contributions": 365
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 5239,
+    "totalCommitContributions": 5241,
     "restrictedContributionsCount": 109,
     "totalIssueContributions": 36,
     "totalRepositoryContributions": 182,
     "totalPullRequestContributions": 146,
     "totalPullRequestReviewContributions": 60,
     "contributionCalendar": {
-      "totalContributions": 5780,
+      "totalContributions": 5782,
       "weeks": [
         {
           "contributionDays": [
@@ -21952,8 +21956,12 @@
               "date": "2026-03-30"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 2,
               "date": "2026-03-31"
+            },
+            {
+              "contributionCount": 1,
+              "date": "2026-04-01"
             }
           ]
         }
@@ -21976,7 +21984,7 @@
         "plex",
         "pms"
       ],
-      "updatedAt": "2026-03-31T12:27:37Z",
+      "updatedAt": "2026-04-01T12:27:27Z",
       "createdAt": "2023-03-24T13:33:38Z"
     },
     {
@@ -21989,7 +21997,7 @@
       "isPrivate": false,
       "primaryLanguage": "TypeScript",
       "topics": [],
-      "updatedAt": "2026-03-28T16:44:51Z",
+      "updatedAt": "2026-04-01T00:23:40Z",
       "createdAt": "2023-04-07T01:56:42Z"
     },
     {
@@ -22028,7 +22036,7 @@
       "isPrivate": false,
       "primaryLanguage": "Go",
       "topics": [],
-      "updatedAt": "2026-03-12T00:15:51Z",
+      "updatedAt": "2026-04-01T00:22:46Z",
       "createdAt": "2023-08-09T14:39:33Z"
     },
     {
@@ -22041,7 +22049,7 @@
       "isPrivate": false,
       "primaryLanguage": "Python",
       "topics": [],
-      "updatedAt": "2026-03-12T00:05:31Z",
+      "updatedAt": "2026-04-01T00:08:35Z",
       "createdAt": "2023-10-27T01:46:46Z"
     },
     {
@@ -22099,5 +22107,5 @@
   ],
   "closedIssues": 26,
   "openIssues": 10,
-  "fetchedAt": 1774960074123
+  "fetchedAt": 1775046485753
 }
