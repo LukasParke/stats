@@ -9,15 +9,15 @@
   "twitterUsername": null,
   "websiteUrl": "parke.dev",
   "createdAt": "2013-10-16T16:40:20Z",
-  "repoViews": 924,
-  "linesOfCodeChanged": 0,
-  "linesAdded": 0,
-  "linesDeleted": 0,
-  "commitCount": 500,
-  "totalCommits": 5929,
+  "repoViews": 999,
+  "linesOfCodeChanged": 10651422,
+  "linesAdded": 5401958,
+  "linesDeleted": 5249464,
+  "commitCount": 1721,
+  "totalCommits": 5932,
   "totalPullRequests": 142,
   "totalPullRequestReviews": 60,
-  "codeByteTotal": 214112854,
+  "codeByteTotal": 214145116,
   "topLanguages": [
     {
       "languageName": "PowerShell",
@@ -124,7 +124,7 @@
     {
       "languageName": "Shell",
       "color": "#89e051",
-      "value": 421296,
+      "value": 426532,
       "percentage": 0.2
     },
     {
@@ -132,6 +132,12 @@
       "color": "#ff5a03",
       "value": 345475,
       "percentage": 0.16
+    },
+    {
+      "languageName": "YAML",
+      "color": "#cb171e",
+      "value": 158271,
+      "percentage": 0.07
     },
     {
       "languageName": "Makefile",
@@ -144,12 +150,6 @@
       "color": "#724b3b",
       "value": 147523,
       "percentage": 0.07
-    },
-    {
-      "languageName": "YAML",
-      "color": "#cb171e",
-      "value": 131245,
-      "percentage": 0.06
     },
     {
       "languageName": "Kotlin",
@@ -284,7 +284,7 @@
       "percentage": 0
     }
   ],
-  "forkCount": 102,
+  "forkCount": 101,
   "starCount": 491,
   "starsGiven": 545,
   "followers": 63,
@@ -292,14 +292,14 @@
   "repositoriesContributedTo": 20,
   "discussionsStarted": 3,
   "discussionsAnswered": 0,
-  "totalContributions": 5783,
+  "totalContributions": 5786,
   "contributionStats": {
-    "longestStreak": 738,
-    "currentStreak": 738,
+    "longestStreak": 739,
+    "currentStreak": 739,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 1.26,
     "averagePerWeek": 8.85,
-    "averagePerMonth": 37.94,
+    "averagePerMonth": 37.95,
     "monthlyBreakdown": [
       {
         "month": "2013-10",
@@ -903,7 +903,7 @@
       },
       {
         "month": "2026-04",
-        "contributions": 34
+        "contributions": 37
       }
     ]
   },
@@ -938,31 +938,31 @@
         "languageName": "Java",
         "color": "#b07219",
         "value": 18287285,
-        "percentage": 34.43
+        "percentage": 34.41
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 8874899,
-        "percentage": 16.71
+        "percentage": 16.7
       },
       {
         "languageName": "Go",
         "color": "#00ADD8",
         "value": 8031650,
-        "percentage": 15.12
+        "percentage": 15.11
       },
       {
         "languageName": "Python",
         "color": "#3572A5",
         "value": 6156031,
-        "percentage": 11.59
+        "percentage": 11.58
       },
       {
         "languageName": "C#",
         "color": "#178600",
         "value": 4083214,
-        "percentage": 7.69
+        "percentage": 7.68
       },
       {
         "languageName": "JavaScript",
@@ -991,8 +991,8 @@
       {
         "languageName": "YAML",
         "color": "#cb171e",
-        "value": 131245,
-        "percentage": 0.25
+        "value": 158271,
+        "percentage": 0.3
       }
     ],
     "totalTopics": 11,
@@ -1055,23 +1055,23 @@
       "sveltekit",
       "template"
     ],
-    "contributionsThisYear": 372,
+    "contributionsThisYear": 375,
     "contributionsLastYear": 2208,
-    "yearOverYearGrowth": -83.15,
+    "yearOverYearGrowth": -83.02,
     "mostProductiveMonth": {
       "month": "2023-04",
       "contributions": 365
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 5246,
+    "totalCommitContributions": 5249,
     "restrictedContributionsCount": 109,
     "totalIssueContributions": 36,
     "totalRepositoryContributions": 182,
     "totalPullRequestContributions": 142,
     "totalPullRequestReviewContributions": 60,
     "contributionCalendar": {
-      "totalContributions": 5783,
+      "totalContributions": 5786,
       "weeks": [
         {
           "contributionDays": [
@@ -22016,8 +22016,12 @@
               "date": "2026-04-12"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 3,
               "date": "2026-04-13"
+            },
+            {
+              "contributionCount": 1,
+              "date": "2026-04-14"
             }
           ]
         }
@@ -22040,7 +22044,7 @@
         "plex",
         "pms"
       ],
-      "updatedAt": "2026-04-13T12:31:27Z",
+      "updatedAt": "2026-04-14T12:29:55Z",
       "createdAt": "2023-03-24T13:33:38Z"
     },
     {
@@ -22163,5 +22167,5 @@
   ],
   "closedIssues": 26,
   "openIssues": 10,
-  "fetchedAt": 1776083536287
+  "fetchedAt": 1776169823596
 }
