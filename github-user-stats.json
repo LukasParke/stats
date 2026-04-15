@@ -9,15 +9,15 @@
   "twitterUsername": null,
   "websiteUrl": "parke.dev",
   "createdAt": "2013-10-16T16:40:20Z",
-  "repoViews": 999,
-  "linesOfCodeChanged": 10651422,
-  "linesAdded": 5401958,
-  "linesDeleted": 5249464,
-  "commitCount": 1721,
-  "totalCommits": 5932,
+  "repoViews": 1010,
+  "linesOfCodeChanged": 0,
+  "linesAdded": 0,
+  "linesDeleted": 0,
+  "commitCount": 500,
+  "totalCommits": 5933,
   "totalPullRequests": 142,
   "totalPullRequestReviews": 60,
-  "codeByteTotal": 214145116,
+  "codeByteTotal": 214149502,
   "topLanguages": [
     {
       "languageName": "PowerShell",
@@ -136,8 +136,8 @@
     {
       "languageName": "YAML",
       "color": "#cb171e",
-      "value": 158271,
-      "percentage": 0.07
+      "value": 162657,
+      "percentage": 0.08
     },
     {
       "languageName": "Makefile",
@@ -292,13 +292,13 @@
   "repositoriesContributedTo": 20,
   "discussionsStarted": 3,
   "discussionsAnswered": 0,
-  "totalContributions": 5786,
+  "totalContributions": 5788,
   "contributionStats": {
-    "longestStreak": 739,
-    "currentStreak": 739,
+    "longestStreak": 740,
+    "currentStreak": 740,
     "mostActiveDay": "Wednesday",
-    "averagePerDay": 1.26,
-    "averagePerWeek": 8.85,
+    "averagePerDay": 1.27,
+    "averagePerWeek": 8.86,
     "averagePerMonth": 37.95,
     "monthlyBreakdown": [
       {
@@ -903,7 +903,7 @@
       },
       {
         "month": "2026-04",
-        "contributions": 37
+        "contributions": 39
       }
     ]
   },
@@ -991,8 +991,8 @@
       {
         "languageName": "YAML",
         "color": "#cb171e",
-        "value": 158271,
-        "percentage": 0.3
+        "value": 162657,
+        "percentage": 0.31
       }
     ],
     "totalTopics": 11,
@@ -1055,23 +1055,23 @@
       "sveltekit",
       "template"
     ],
-    "contributionsThisYear": 375,
+    "contributionsThisYear": 377,
     "contributionsLastYear": 2208,
-    "yearOverYearGrowth": -83.02,
+    "yearOverYearGrowth": -82.93,
     "mostProductiveMonth": {
       "month": "2023-04",
       "contributions": 365
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 5249,
+    "totalCommitContributions": 5251,
     "restrictedContributionsCount": 109,
     "totalIssueContributions": 36,
     "totalRepositoryContributions": 182,
     "totalPullRequestContributions": 142,
     "totalPullRequestReviewContributions": 60,
     "contributionCalendar": {
-      "totalContributions": 5786,
+      "totalContributions": 5788,
       "weeks": [
         {
           "contributionDays": [
@@ -22020,8 +22020,12 @@
               "date": "2026-04-13"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 2,
               "date": "2026-04-14"
+            },
+            {
+              "contributionCount": 1,
+              "date": "2026-04-15"
             }
           ]
         }
@@ -22044,7 +22048,7 @@
         "plex",
         "pms"
       ],
-      "updatedAt": "2026-04-14T12:29:55Z",
+      "updatedAt": "2026-04-15T12:30:30Z",
       "createdAt": "2023-03-24T13:33:38Z"
     },
     {
@@ -22167,5 +22171,5 @@
   ],
   "closedIssues": 26,
   "openIssues": 10,
-  "fetchedAt": 1776169823596
+  "fetchedAt": 1776256242557
 }
