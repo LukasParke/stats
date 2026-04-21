@@ -9,27 +9,27 @@
   "twitterUsername": null,
   "websiteUrl": "parke.dev",
   "createdAt": "2013-10-16T16:40:20Z",
-  "repoViews": 953,
+  "repoViews": 996,
   "linesOfCodeChanged": 0,
   "linesAdded": 0,
   "linesDeleted": 0,
   "commitCount": 500,
-  "totalCommits": 5959,
+  "totalCommits": 5965,
   "totalPullRequests": 142,
   "totalPullRequestReviews": 60,
-  "codeByteTotal": 214178599,
+  "codeByteTotal": 214212314,
   "topLanguages": [
     {
       "languageName": "PowerShell",
       "color": "#012456",
       "value": 58546711,
-      "percentage": 27.34
+      "percentage": 27.33
     },
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
       "value": 34579890,
-      "percentage": 16.15
+      "percentage": 16.14
     },
     {
       "languageName": "MDX",
@@ -124,7 +124,7 @@
     {
       "languageName": "Shell",
       "color": "#89e051",
-      "value": 426532,
+      "value": 436559,
       "percentage": 0.2
     },
     {
@@ -136,13 +136,13 @@
     {
       "languageName": "YAML",
       "color": "#cb171e",
-      "value": 183405,
-      "percentage": 0.09
+      "value": 205281,
+      "percentage": 0.1
     },
     {
       "languageName": "Makefile",
       "color": "#427819",
-      "value": 150775,
+      "value": 152587,
       "percentage": 0.07
     },
     {
@@ -292,14 +292,14 @@
   "repositoriesContributedTo": 20,
   "discussionsStarted": 3,
   "discussionsAnswered": 0,
-  "totalContributions": 5812,
+  "totalContributions": 5818,
   "contributionStats": {
-    "longestStreak": 745,
-    "currentStreak": 745,
+    "longestStreak": 746,
+    "currentStreak": 746,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 1.27,
-    "averagePerWeek": 8.88,
-    "averagePerMonth": 38.07,
+    "averagePerWeek": 8.89,
+    "averagePerMonth": 38.1,
     "monthlyBreakdown": [
       {
         "month": "2013-10",
@@ -903,7 +903,7 @@
       },
       {
         "month": "2026-04",
-        "contributions": 63
+        "contributions": 69
       }
     ]
   },
@@ -938,31 +938,31 @@
         "languageName": "Java",
         "color": "#b07219",
         "value": 18287285,
-        "percentage": 34.39
+        "percentage": 34.37
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 8874899,
-        "percentage": 16.69
+        "percentage": 16.68
       },
       {
         "languageName": "Go",
         "color": "#00ADD8",
         "value": 8035597,
-        "percentage": 15.11
+        "percentage": 15.1
       },
       {
         "languageName": "Python",
         "color": "#3572A5",
         "value": 6160433,
-        "percentage": 11.59
+        "percentage": 11.58
       },
       {
         "languageName": "C#",
         "color": "#178600",
         "value": 4083214,
-        "percentage": 7.68
+        "percentage": 7.67
       },
       {
         "languageName": "JavaScript",
@@ -974,13 +974,13 @@
         "languageName": "Swift",
         "color": "#F05138",
         "value": 1863731,
-        "percentage": 3.51
+        "percentage": 3.5
       },
       {
         "languageName": "C",
         "color": "#555555",
         "value": 1396552,
-        "percentage": 2.63
+        "percentage": 2.62
       },
       {
         "languageName": "Svelte",
@@ -991,8 +991,8 @@
       {
         "languageName": "YAML",
         "color": "#cb171e",
-        "value": 183405,
-        "percentage": 0.34
+        "value": 205281,
+        "percentage": 0.39
       }
     ],
     "totalTopics": 11,
@@ -1055,23 +1055,23 @@
       "sveltekit",
       "template"
     ],
-    "contributionsThisYear": 401,
+    "contributionsThisYear": 407,
     "contributionsLastYear": 2208,
-    "yearOverYearGrowth": -81.84,
+    "yearOverYearGrowth": -81.57,
     "mostProductiveMonth": {
       "month": "2023-04",
       "contributions": 365
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 5275,
+    "totalCommitContributions": 5281,
     "restrictedContributionsCount": 109,
     "totalIssueContributions": 36,
     "totalRepositoryContributions": 182,
     "totalPullRequestContributions": 142,
     "totalPullRequestReviewContributions": 60,
     "contributionCalendar": {
-      "totalContributions": 5812,
+      "totalContributions": 5818,
       "weeks": [
         {
           "contributionDays": [
@@ -22048,8 +22048,12 @@
               "date": "2026-04-19"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 6,
               "date": "2026-04-20"
+            },
+            {
+              "contributionCount": 1,
+              "date": "2026-04-21"
             }
           ]
         }
@@ -22072,7 +22076,7 @@
         "plex",
         "pms"
       ],
-      "updatedAt": "2026-04-20T12:34:24Z",
+      "updatedAt": "2026-04-21T12:31:15Z",
       "createdAt": "2023-03-24T13:33:38Z"
     },
     {
@@ -22195,5 +22199,5 @@
   ],
   "closedIssues": 26,
   "openIssues": 10,
-  "fetchedAt": 1776688495251
+  "fetchedAt": 1776774700781
 }
