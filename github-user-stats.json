@@ -9,51 +9,51 @@
   "twitterUsername": null,
   "websiteUrl": "parke.dev",
   "createdAt": "2013-10-16T16:40:20Z",
-  "repoViews": 328,
+  "repoViews": 316,
   "linesOfCodeChanged": 0,
   "linesAdded": 0,
   "linesDeleted": 0,
   "commitCount": 500,
-  "totalCommits": 6119,
+  "totalCommits": 6124,
   "totalPullRequests": 142,
   "totalPullRequestReviews": 60,
-  "codeByteTotal": 215275412,
+  "codeByteTotal": 215503358,
   "topLanguages": [
     {
       "languageName": "PowerShell",
       "color": "#012456",
       "value": 58546711,
-      "percentage": 27.2
+      "percentage": 27.17
     },
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
       "value": 34579890,
-      "percentage": 16.06
+      "percentage": 16.05
     },
     {
       "languageName": "MDX",
       "color": "#fcb32c",
       "value": 34116935,
-      "percentage": 15.85
+      "percentage": 15.83
     },
     {
       "languageName": "Java",
       "color": "#b07219",
       "value": 22487116,
-      "percentage": 10.45
+      "percentage": 10.43
     },
     {
       "languageName": "Go",
       "color": "#00ADD8",
-      "value": 13529374,
-      "percentage": 6.28
+      "value": 13731172,
+      "percentage": 6.37
     },
     {
       "languageName": "HTML",
       "color": "#e34c26",
-      "value": 11460076,
-      "percentage": 5.32
+      "value": 11425521,
+      "percentage": 5.3
     },
     {
       "languageName": "Python",
@@ -95,7 +95,7 @@
       "languageName": "Ruby",
       "color": "#701516",
       "value": 2294377,
-      "percentage": 1.07
+      "percentage": 1.06
     },
     {
       "languageName": "Swift",
@@ -106,7 +106,7 @@
     {
       "languageName": "C",
       "color": "#555555",
-      "value": 1396747,
+      "value": 1399892,
       "percentage": 0.65
     },
     {
@@ -118,14 +118,14 @@
     {
       "languageName": "CSS",
       "color": "#663399",
-      "value": 555508,
+      "value": 564975,
       "percentage": 0.26
     },
     {
       "languageName": "Shell",
       "color": "#89e051",
-      "value": 450418,
-      "percentage": 0.21
+      "value": 467624,
+      "percentage": 0.22
     },
     {
       "languageName": "Astro",
@@ -142,8 +142,8 @@
     {
       "languageName": "Makefile",
       "color": "#427819",
-      "value": 159937,
-      "percentage": 0.07
+      "value": 161987,
+      "percentage": 0.08
     },
     {
       "languageName": "Mustache",
@@ -160,7 +160,13 @@
     {
       "languageName": "Dockerfile",
       "color": "#384d54",
-      "value": 38567,
+      "value": 39691,
+      "percentage": 0.02
+    },
+    {
+      "languageName": "Go Template",
+      "color": "#00ADD8",
+      "value": 37182,
       "percentage": 0.02
     },
     {
@@ -197,12 +203,6 @@
       "languageName": "HCL",
       "color": "#844FBA",
       "value": 10637,
-      "percentage": 0
-    },
-    {
-      "languageName": "Go Template",
-      "color": "#00ADD8",
-      "value": 9471,
       "percentage": 0
     },
     {
@@ -298,14 +298,14 @@
   "repositoriesContributedTo": 19,
   "discussionsStarted": 3,
   "discussionsAnswered": 0,
-  "totalContributions": 5863,
+  "totalContributions": 5868,
   "contributionStats": {
-    "longestStreak": 765,
-    "currentStreak": 765,
+    "longestStreak": 766,
+    "currentStreak": 766,
     "mostActiveDay": "Wednesday",
-    "averagePerDay": 1.27,
-    "averagePerWeek": 8.92,
-    "averagePerMonth": 38.24,
+    "averagePerDay": 1.28,
+    "averagePerWeek": 8.93,
+    "averagePerMonth": 38.26,
     "monthlyBreakdown": [
       {
         "month": "2013-10",
@@ -913,7 +913,7 @@
       },
       {
         "month": "2026-05",
-        "contributions": 20
+        "contributions": 25
       }
     ]
   },
@@ -948,55 +948,55 @@
         "languageName": "Java",
         "color": "#b07219",
         "value": 18287285,
-        "percentage": 33.7
+        "percentage": 33.56
       },
       {
         "languageName": "Go",
         "color": "#00ADD8",
-        "value": 9070437,
-        "percentage": 16.71
+        "value": 9272235,
+        "percentage": 17.01
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 8874899,
-        "percentage": 16.35
+        "percentage": 16.28
       },
       {
         "languageName": "Python",
         "color": "#3572A5",
         "value": 6160433,
-        "percentage": 11.35
+        "percentage": 11.3
       },
       {
         "languageName": "C#",
         "color": "#178600",
         "value": 4083214,
-        "percentage": 7.52
+        "percentage": 7.49
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
         "value": 3053483,
-        "percentage": 5.63
+        "percentage": 5.6
       },
       {
         "languageName": "Swift",
         "color": "#F05138",
         "value": 1863731,
-        "percentage": 3.43
+        "percentage": 3.42
       },
       {
         "languageName": "C",
         "color": "#555555",
-        "value": 1396552,
+        "value": 1399697,
         "percentage": 2.57
       },
       {
         "languageName": "Svelte",
         "color": "#ff3e00",
         "value": 731670,
-        "percentage": 1.35
+        "percentage": 1.34
       },
       {
         "languageName": "YAML",
@@ -1065,23 +1065,23 @@
       "sveltekit",
       "template"
     ],
-    "contributionsThisYear": 452,
+    "contributionsThisYear": 457,
     "contributionsLastYear": 2208,
-    "yearOverYearGrowth": -79.53,
+    "yearOverYearGrowth": -79.3,
     "mostProductiveMonth": {
       "month": "2023-04",
       "contributions": 365
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 5325,
+    "totalCommitContributions": 5330,
     "restrictedContributionsCount": 109,
     "totalIssueContributions": 36,
     "totalRepositoryContributions": 183,
     "totalPullRequestContributions": 142,
     "totalPullRequestReviewContributions": 60,
     "contributionCalendar": {
-      "totalContributions": 5863,
+      "totalContributions": 5868,
       "weeks": [
         {
           "contributionDays": [
@@ -22150,8 +22150,12 @@
         {
           "contributionDays": [
             {
-              "contributionCount": 1,
+              "contributionCount": 5,
               "date": "2026-05-10"
+            },
+            {
+              "contributionCount": 1,
+              "date": "2026-05-11"
             }
           ]
         }
@@ -22174,7 +22178,7 @@
         "plex",
         "pms"
       ],
-      "updatedAt": "2026-05-10T11:24:48Z",
+      "updatedAt": "2026-05-11T11:10:11Z",
       "createdAt": "2023-03-24T13:33:38Z"
     },
     {
@@ -22297,5 +22301,5 @@
   ],
   "closedIssues": 26,
   "openIssues": 10,
-  "fetchedAt": 1778416033939
+  "fetchedAt": 1778505014218
 }
