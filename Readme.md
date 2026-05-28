@@ -1,43 +1,61 @@
-# GitHub Stats Template
+# GitHub Stats
 
-This repository serves as a template for creating your own GitHub repositories. It includes a scheduled GitHub Action that generates GitHub stats on a daily basis.
+This repository stores the public-safe stats data for my GitHub profile. It is
+powered by [`LukasParke/stats-action`](https://github.com/LukasParke/stats-action)
+and is intended to feed profile README widgets, a live interactive stats site,
+and Remotion-generated animations.
 
-## Getting Started
+## What Gets Published
 
-To use this template, follow these steps:
+The workflow commits:
 
-1. Click on the "Use this template" button to create a new repository based on this template.
-2. Clone the newly created repository to your local machine.
+- `github-user-stats.json`: generated stats output with the v2 schema plus
+  legacy aliases for older consumers.
+- `.github-profile-stats/cache.json`: stable cache used to avoid repeatedly
+  refetching historical data and to resume optional backfill.
 
-## Creating a GitHub Personal Access Token (PAT)
+The workflow does not commit `.github-profile-stats/volatile-cache.json`; that
+file is restored and saved through GitHub Actions cache.
 
-To enable the scheduled GitHub Action, you need to create a GitHub Personal Access Token (PAT). This token should be a classic token, set to never expire, with scopes for read-only repository and profile access. Here's how:
+## Privacy Model
 
-1. Go to GitHub settings.
-2. Navigate to "Developer settings" > "Personal access tokens".
-3. Click on "Generate new token".
-4. Give your token a descriptive name.
-5. Set the expiration to "No expiration" or whatever your preference is.
-6. For the scopes, select "repo" (for read-only repository access) and "user:email" (for read-only profile access).
-7. Click on "Generate token".
-8. Copy the generated token. Be sure to save it somewhere safe, as you won't be able to see it again.
+This repo may be public, so private repository details are disabled in the
+workflow:
 
-## Adding the PAT to the Repository Secrets
+- `include-private-repository-details: false`
+- `include-private-cache-details: false`
 
-After generating your PAT, you need to add it to the repository secrets. Here's how:
+Aggregate private activity values may still appear, such as private repository
+count, restricted contribution count, and total contribution counts. Identifying
+private repository data should not be committed: names, descriptions, URLs,
+topics, branch identifiers, per-repository traffic, or per-repository
+contributor stats.
 
-1. Go to your repository settings.
-2. Navigate to "Secrets".
-3. Click on "New repository secret".
-4. Name the secret "ACCESS_TOKEN" and paste your PAT in the value field.
-5. Click on "Add secret".
+## Workflow Setup
 
-## Using the Scheduled Action
+The scheduled workflow uses a Personal Access Token stored as `ACCESS_TOKEN`.
+For a fresh setup:
 
-With the PAT added to the repository secrets, the scheduled GitHub Action can now run. This action generates GitHub stats daily.
+1. Create a PAT for the GitHub account being measured.
+2. Give it read access for profile and repository data.
+3. Add it to this repository as a secret named `ACCESS_TOKEN`.
+4. Run **GitHub Profile Stats** manually from the Actions tab.
 
-To view the stats, navigate to the "Actions" tab in your repository. Here, you can see the results of each run of the action.
+The first run may not complete every optional repository metric. Later scheduled
+runs resume the backfill queue using `.github-profile-stats/cache.json`.
 
-Remember to always keep your PAT safe and never share it with anyone. It's like a password, but for your GitHub account.
+## Useful Output Sections
 
-Happy coding!
+- `profile`: public profile fields and social counts.
+- `profileContributions`: contribution graph totals, calendar, streaks, and rollups.
+- `repositories`: public repository metadata only.
+- `repoMetrics`: public-safe repository aggregates and optional metrics.
+- `presentation.readmeSummary`: compact values for README/profile widgets.
+- `presentation.remotion`: scene-ready summary data for animation generation.
+- `privacy`: redaction status and counts.
+
+## Local Checks
+
+```bash
+jq '.schemaVersion, .privacy, .collectionStatus.complete' github-user-stats.json
+```
